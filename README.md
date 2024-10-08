@@ -2,16 +2,13 @@
  👋
 
 - This **Text** Is Bold
-- This __Text__ Is Bold
-- This *Text* Is Bold
-- This _Text_ Is Bold
-- This ***Text*** Is Bold
-- This ___Text___ Is Bold
+- This _Text_ Is italik
+- This ***Text*** Is Bold and italik
 
 -------
 
 > I am `Mern Stack` Developer
->> I Develop Sabzlearn Backend
+>> I Develop testy Backend
 
 ----------------
 
